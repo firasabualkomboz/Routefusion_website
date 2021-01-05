@@ -1,0 +1,337 @@
+/* MORE USE CODE CSSS */
+.btn-top-header button{
+    width: 211px;
+    height: 54px;
+    background: #DA9847;
+    border-radius: 27px;
+    border: none;
+    margin-right: 10px;
+}
+.btn-km a{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 34px;
+    font-style: normal;
+    text-decoration: none;
+}
+/* css nav-bar-header */
+nav{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+nav ul {margin: 20px;}
+nav ul li {
+    margin-right: 20px;
+}
+nav ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 34px;
+    font-style: normal;
+    color: #101135;  
+}
+nav ul li a:hover{color: #101135;}
+.ml-auto {margin-left: auto;}
+nav .btn-start {
+    width: 211px;
+    height: 54px;
+    background: #DA9847;
+    border-radius: 27px;
+    border: none;
+    margin-right: 10px;
+}
+nav button:hover{border: none;}
+.navbar-brand{color: #2A2B51;font-weight: 700;}
+.navbar-toggler{background: #1E3248;border-radius: 27px;}
+.fa-sliders-h{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    font-style: normal;
+    color: #fff;
+}
+nav .btn-start a{
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 34px;
+    font-style: normal;
+    text-decoration: none;
+}
+nav .btn-starta:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.navbar-brand{
+    margin-left: 5px;
+}
+
+@media screen and (max-width:400px){
+    .navbar-brand {
+        padding-top: .3125rem;
+        padding-bottom: .3125rem;
+        margin-right: 180px;
+    }
+}
+
+/* header-bottom  */
+
+.header-btm{
+    padding-top: 40px;
+    padding-bottom: 40px; 
+}
+.header-btm .left-text h3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 52px;
+    line-height: 78px;
+    color: #1E3248;
+}
+.header-btm .left-text p{
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 36px;
+/* or 171% */
+color: #44454E;
+}
+.header-btm .left-text span{
+
+font-family: 'Poppins', sans-serif;
+font-size: 52px;
+font-style: normal;
+font-weight: 600;
+line-height: 78px;
+letter-spacing: 0px;
+text-align: left;
+
+
+}
+.header-btm .right-image img{
+width: 90%;
+margin-left: 50px;
+
+}
+
+
+ /* end header-bottom */
+
+/* about */
+
+.about{
+    padding-top: 40px;
+    padding-bottom: 40px; 
+    font-family: Poppins;
+    background: #1E3248;
+    font-style: normal;
+}
+.about .about-text a{
+    background: #DA9847;
+    border-radius: 7px;
+    height: 43px;
+    width: 106px;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+.about .about-text h2{
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 0px;
+    color: #E6E3DD;
+    padding-top: 10px;
+}
+.about .about-text i{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 38px;
+    letter-spacing: 0px;
+    color: #DA9847;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+.about .about-text p{
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #E6E3DD; 
+}
+/* end about  */
+
+/* jscripts */
+.jscripts{
+    padding-top: 40px;
+    padding-bottom: 40px; 
+    font-family: Poppins;
+    font-style: normal;
+}
+.jscripts .jscripts-text a{
+    background: #DA9847;
+    border-radius: 7px;
+    width: 106px;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-decoration: none;
+    color: #fff;
+}
+.jscripts .jscripts-text h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 66px;
+    letter-spacing: 0px; 
+}
+.jscripts .jscripts-text ul li{
+    display: inline-block;
+    margin: 5px;
+    width: 187px;
+    height: 71px;
+    background: #E6E3DD;
+    border-radius: 4px;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+.jscripts .jscripts-text ul li::before{
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f007";
+    margin-right: 5px;
+
+}
+
+.jscripts .jscripts-text i{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+.jscripts .jscripts-text p{
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0px;
+}
+
+/* Service */
+.Service {
+    padding-top: 40px;
+    padding-bottom: 40px; 
+    font-family: Poppins;
+    font-style: normal;
+}
+.Service a{
+    background: #DA9847;
+    border-radius: 7px;
+    width: 106px;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-decoration: none;
+    color: #fff;
+}
+.Service h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 66px;
+}
+.Service .card-service{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.Service .card-service h3{
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 27px;
+        text-align: center;
+}
+.Service .card-service p{
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+
+}
+
+/* Benefits */
+.Benefits {
+    padding-top: 40px;
+    padding-bottom: 40px; 
+    font-family: Poppins;
+    font-style: normal;
+}
+.Benefits a{
+    background: #DA9847;
+    border-radius: 7px;
+    width: 106px;
+    height: 30px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-decoration: none;
+    color: #fff;
+}
+.Benefits h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 66px;
+
+}
+.Benefits .card-Benefits{
+    margin: 20px;
+}
+.Benefits .card-Benefits img{
+    float: left;
+}
+.Benefits .card-Benefits h3{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+
+}
+.Benefits .card-Benefits p{
+   
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 20px;
+    color: #44454E;
+    
+}
